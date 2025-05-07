@@ -155,4 +155,4 @@ void pasoNormal_init(int IN0, int IN1, int IN2, int IN3){
                         }  
                     }
                 }
-            }
+            }   
